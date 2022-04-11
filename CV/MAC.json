@@ -6,10 +6,14 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Gabriel Romay",
-      "surnames": "",
-      "title": "",
+      "name": "Gabriel",
+      "surnames": "Romay",
+      "title": "Senior Frontend React Developer",
       "description": "",
+      "avatar": {
+        "alt": "avatar_light.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/88be999b-151b-4fc9-a6c6-2c4cfc804ea4_avatar_light.jpg"
+      },
       "location": {
         "notes": ""
       }
