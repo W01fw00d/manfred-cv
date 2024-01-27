@@ -358,36 +358,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AJAX",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Backbone",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -406,37 +376,7 @@
       },
       {
         "skill": {
-          "name": "Ionic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenERP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHPunit",
           "type": "technology"
         }
       },
@@ -460,43 +400,7 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Selenium",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Twig",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -598,5 +502,17 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ]
   }
 }
