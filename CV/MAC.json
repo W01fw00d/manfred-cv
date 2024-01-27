@@ -370,6 +370,12 @@
       },
       {
         "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }
@@ -377,6 +383,12 @@
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
           "type": "technology"
         }
       },
@@ -395,6 +407,12 @@
       {
         "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Storybook",
           "type": "technology"
         }
       },
@@ -506,7 +524,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Cypress",
+        "type": "technology"
+      },
+      {
         "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Storybook",
         "type": "technology"
       },
       {
