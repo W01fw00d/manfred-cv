@@ -406,6 +406,12 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PL/SQL",
           "type": "technology"
         }
@@ -546,11 +552,11 @@
         "type": "technology"
       },
       {
-        "name": "GraphQL",
+        "name": "JavaScript",
         "type": "technology"
       },
       {
-        "name": "JavaScript",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
