@@ -560,6 +560,10 @@
         {
           "name": "Storybook",
           "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
