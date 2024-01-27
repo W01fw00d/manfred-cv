@@ -1,22 +1,45 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Gabriel",
-      "surnames": "Romay",
-      "title": "Senior Frontend React Developer",
-      "description": "",
+      "surnames": "Romay Machado",
+      "title": "Senior Web Frontend React Developer - github.com/W01fw00d",
+      "description": "Senior Frontend Web Developer. Javascript/Typescript (React, Node.js, Webpack). Testing (Jest, Cypress). Desarrollador de Dev Toolkits, MicroFrontend Architecture, Reusable Components, Design Systems, Internal Tools. Agile (SCRUM, Kanban), Git, Clean Code, Code Review, Software Craftmanship.\n\n100% Remote (Looking for a Remote and Asynchronous First culture).\n\nI work in international agile teams, so my English competency is Professional and I’m used to very diverse working cultures (Japan, France, Spain…).\n\nGet to know me! I’m:\n\n- A writer: \"The Nurse who coded\": A Tech Blog in both text (https://thenursewhocoded.hashnode.dev/) and audio (https://anchor.fm/gabriel-romaymachado/episodes/How-I-learned-to-code-euqd4j) formats\n- A Team Player: https://gist.github.com/W01fw00d/6f4dd234e561f89ae3dafd222ecb44f7 (Translated Agile Article)\n- Involved in my community: Transcribed TV Interview (https://gist.github.com/W01fw00d/8c80c137d4f0d3c6514cdcefb81290b6)\n- Proactive: https://github.com/W01fw00d",
       "avatar": {
-        "alt": "avatar_light.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/88be999b-151b-4fc9-a6c6-2c4cfc804ea4_avatar_light.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/232b206d-4909-449e-9bfd-c3513004b417_linkedin-photo-4534.linkedin-photo-4534",
+        "alt": "24/01/27/232b206d-4909-449e-9bfd-c3513004b417_linkedin-photo-4534.linkedin-photo-4534"
       },
       "location": {
-        "notes": ""
+        "notes": "Autocompleted using Google Maps API (id: ChIJFf5oO_6vUQ0RSUaGlFnFPuQ)",
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "San Sebastián"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/gabriel-romaymachado-40050a114"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/gabriel-romaymachado-40050a114",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "romay.gabriel@gmail.com"
+      ]
+    },
+    "status": "notAvailable"
   }
 }
