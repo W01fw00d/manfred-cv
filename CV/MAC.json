@@ -358,6 +358,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Apollo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -371,6 +377,12 @@
       {
         "skill": {
           "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
           "type": "technology"
         }
       },
@@ -401,6 +413,12 @@
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
           "type": "technology"
         }
       },
@@ -525,6 +543,10 @@
     "mainStackTechs": [
       {
         "name": "Cypress",
+        "type": "technology"
+      },
+      {
+        "name": "GraphQL",
         "type": "technology"
       },
       {
