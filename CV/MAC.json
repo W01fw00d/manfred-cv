@@ -564,6 +564,10 @@
         {
           "name": "TypeScript",
           "type": "technology"
+        },
+        {
+          "name": "Webpack",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
