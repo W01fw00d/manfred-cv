@@ -534,6 +534,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         }
