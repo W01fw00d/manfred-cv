@@ -567,6 +567,7 @@
         "name": "TypeScript",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "As an IC (Senior Frontend Developer), I’m looking to work on an autonomous and role-diverse small team where we can solve interesting and challenging problems that have clear business value for the company.\n\nI shine the most when I work in a remote-first and async-first environment, where colleagues communicate early and often when blockers and issues are found. I like to solve problems once: from automation of repetitive tasks, to writing clear documentation.\n\nI like to find the best solution to each problem. I’m a fan of writing down decision matrices so my team can have a clear image of the pros and cons of each decision (ie: picking a new technology). Also, future developers maintaining what we build will be able to understand why we took certain decisions so maintenance, refactoring and new feature development times go down.\n\nI like to think every day: is this task I’m doing right now providing the most value for the company? Or should I rather be doing something else instead?\n\nI like to be in a safe environment where I can get technical and business context just asking my colleagues or reading their documentation, without silos. ie: Being able to ask a Designer about a specific page they designed on Figma, and discuss better solutions that are optimal from both Design and Engineering perspectives. Or being able to create a new CI/CD pipeline for my project just by reading the Infrastructure Team documentation."
   }
 }
