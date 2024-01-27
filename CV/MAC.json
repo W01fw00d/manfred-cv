@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/gabriel-romaymachado-40050a114"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/W01fw00d"
       }
     ]
   },
@@ -525,6 +529,10 @@
         {
           "URL": "https://linkedin.com/in/gabriel-romaymachado-40050a114",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/W01fw00d",
+          "type": "github"
         }
       ],
       "contactMails": [
