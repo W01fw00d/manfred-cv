@@ -11,8 +11,8 @@
       "title": "Senior Web Frontend React Developer - github.com/W01fw00d",
       "description": "Senior Frontend Web Developer. Javascript/Typescript (React, Node.js, Webpack). Testing (Jest, Cypress). Desarrollador de Dev Toolkits, MicroFrontend Architecture, Reusable Components, Design Systems, Internal Tools. Agile (SCRUM, Kanban), Git, Clean Code, Code Review, Software Craftmanship.\n\n100% Remote (Looking for a Remote and Asynchronous First culture).\n\nI work in international agile teams, so my English competency is Professional and I’m used to very diverse working cultures (Japan, France, Spain…).\n\nGet to know me! I’m:\n\n- A writer: \"The Nurse who coded\": A Tech Blog in both text (https://thenursewhocoded.hashnode.dev/) and audio (https://anchor.fm/gabriel-romaymachado/episodes/How-I-learned-to-code-euqd4j) formats\n- A Team Player: https://gist.github.com/W01fw00d/6f4dd234e561f89ae3dafd222ecb44f7 (Translated Agile Article)\n- Involved in my community: Transcribed TV Interview (https://gist.github.com/W01fw00d/8c80c137d4f0d3c6514cdcefb81290b6)\n- Proactive: https://github.com/W01fw00d",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/c3a96fb5-0374-4c0d-9f41-423c23cb97ed_linkedin-photo-4534.linkedin-photo-4534",
-        "alt": "24/01/27/c3a96fb5-0374-4c0d-9f41-423c23cb97ed_linkedin-photo-4534.linkedin-photo-4534"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/4db15ce0-5b41-4304-ac82-554c9b8af528_linkedin-photo-4534.linkedin-photo-4534",
+        "alt": "24/01/27/4db15ce0-5b41-4304-ac82-554c9b8af528_linkedin-photo-4534.linkedin-photo-4534"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJFf5oO_6vUQ0RSUaGlFnFPuQ)",
@@ -25,6 +25,306 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/gabriel-romaymachado-40050a114"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Stuart Delivery",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/c4cf6303-c501-4975-b00f-7baa5a06dad9_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/c4cf6303-c501-4975-b00f-7baa5a06dad9_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Engineer",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Summary: Working on the development of an internal Toolkit targeted to other Frontend developers. This Toolkit facilitates the creation of Web Apps through an architecture based on Micro-Frontends, CI/CD; Monitoring and Authentication/Authorization."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Spain"
+        },
+        "roles": [
+          {
+            "name": "Spain resident",
+            "startDate": "2021-12-01",
+            "finishDate": "2022-03-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rakuten",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/0b86ed29-6386-4d3e-adde-600e048411c7_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/0b86ed29-6386-4d3e-adde-600e048411c7_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Applications Engineer",
+            "startDate": "2020-05-01",
+            "finishDate": "2021-11-30",
+            "challenges": [
+              {
+                "description": "Summary: React + Kotlin SSR Web App, Senior Full-Stack Autonomous Developer.\n\n· I worked on an already started project for managing chatbots in the company mobile app while I was waiting for my own project to be assigned to me. It was a React Web App that was calling an internal API.\n\n· I worked on a complex project from the starting design phase, through the production release, and to the later maintenance and continuous improvement phase. I created an API and an SSR Web App to manage commercial campaigns from different old databases and a new database that I designed and managed. I was in charge of designing new solutions for product specifications before and after release, fixing bugs, improving the app performance, and fixing security issues (avoiding JS and HTML injection for example). In some cases, I designed the UI too according to product specifications; although, I usually worked closely with my UX colleagues from other teams. As it was a new project, I was able to choose the better-suited tech for our necessities and use the last available versions. I was responsible for documenting all the information about this project (design decisions, implementation details…) and passing it down to the next maintainers.\n\n· As an expert in React Frontend Development, I was in charge of doing Code Review for other teams and projects, offering mentoring about best practices. Lots of teams only had Junior Frontend Developers, so I had a lot of opportunities to share knowledge with them.\n\n\n* Tech-stack: React (TypeScript, React Hooks), SSR, Ant Design Framework, Kotlin (in the Backend), Spring, MySQL, error logging and monitoring (DataDog)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TEKsystems",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/fe82c5c7-0841-48dd-92dc-67c36b6b2df5_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/fe82c5c7-0841-48dd-92dc-67c36b6b2df5_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Application Engineer",
+            "startDate": "2020-05-01",
+            "finishDate": "2021-11-30",
+            "challenges": [
+              {
+                "description": "Working for main client Rakuten"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Japan"
+        },
+        "roles": [
+          {
+            "name": "Japan Resident",
+            "startDate": "2020-01-01",
+            "finishDate": "2021-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Meliá Hotels International",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/c930248b-715d-4fb2-8bd3-d3fad808e418_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/c930248b-715d-4fb2-8bd3-d3fad808e418_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2019-10-01",
+            "finishDate": "2020-05-31",
+            "challenges": [
+              {
+                "description": "Summary: React Custom Hooks, Material-UI, Storybook, leadership role.\n\n· Fast-paced project consisting of migrating Angular b2b apps to new React apps, in addition to adding new features and fixing bugs. These apps are for internal use of our client: they are used by different professionals and departments inside the company; and in addition to that, it’s used by more than 8.000 third-party agencies and directors from more than 350 hotels.\n\n· A custom library based on Material-UI designed to be shared between the different internal management apps (management of properties like hotels, leads, etc.) that our main client requires.\n\n· Senior Role in a group of all Junior colleagues. Creation of best solutions to most complex features and explaining them to the juniors, while assisting them in their tasks, pair programming with them and code reviewing, sharing good practices (XP, Atomic Design, Agile).\n\n* Tech-stack: React (TypeScript, React Hooks), SPA, RESTful API, Material-UI, Styled Components, Storybook, Atomic Design, Node.js."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Brújula, a CMC company"
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer, working for \"Meliá International\"",
+            "startDate": "2019-10-01",
+            "finishDate": "2020-05-31",
+            "challenges": [
+              {
+                "description": "Consultancy Company. With \"Meliá Hotels International\" as remote full-time client (please check that section for more information)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Courses"
+        },
+        "roles": [
+          {
+            "name": "Continuous education",
+            "startDate": "2019-08-01",
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": "Continuous formation and active job search.\n\n* Udemy course about Design Patterns in Java completed:\nCertificate: https://www.udemy.com/certificate/UC-OI97TI06/\nExercices: https://github.com/W01fw00d/design_patterns_java\n\n* Platzi course about React.js:\nCertificate: In my profile\nExercices: https://github.com/W01fw00d/platzi-badges\n\nPersonal projects in Github to experiment with state-of-the-art web technologies (Django, React)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ávoris - B The Travel Brand",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/f8dff07a-0746-47af-a1a7-a32471bb8acb_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/f8dff07a-0746-47af-a1a7-a32471bb8acb_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-07-31",
+            "challenges": [
+              {
+                "description": "(https://www.avoristravel.uk/about)\n\nSummary: Angular, Java, Microservices. Airlines e-Commerce.\n\n· External payment platforms integration with our international flights selling b2c website (https://www.bthetravelbrand.com/).\n\n· Development of a back office b2b app that was used by our agents to manage payments, in the more than 650 company flights agencies.\n\n*Tech-stack: Angular.js (Javascript, TypeScript), Atomic Design, SPA, Java ( ES6, Spring ), Server Side Rendering, RESTful API, microservices architecture, continuous integration (the team was managing their releases autonomously), version management, database design, unit testing (Mockito)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Habitissimo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/6d1e344a-3d62-41f7-9b9b-f6a12d7c1fc5_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/6d1e344a-3d62-41f7-9b9b-f6a12d7c1fc5_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Developer",
+            "startDate": "2017-11-01",
+            "finishDate": "2019-01-31",
+            "challenges": [
+              {
+                "description": "Summary: Symfony (PHP), JS, Django (Python), leadership role.\n\n· Maintenance and implementation of new features for a complex custom Back Office App (with CRM and CTI) that our Commercial, Customer Support, and Help Desk agents used for their daily work routines.\n\n· Maintenance of a Report App for Call Center records.\n\n· Maintenance and addition of new features in the main B2C Marketplace Web App (deployed in more than 8 countries in Europe and Latin America).\n\n· Generation of complex reports using mySQL queries on the main company DDBB.\n\n· Pair programming, sharing good practices (XP, Atomic Design, Scrum), code review.\n\n· Volunteer to rotate with other colleagues to manage all team's weekly releases in all countries, which meant having to detect and fix critical bugs on production, high functional and unit testing control, and making high business impact decisions. It’s a leadership role focused on ensuring code quality and company goals were being achieved while coordinating Systems and Development teams (Full Web Development Process Vision).\n\n* Tech-stack: Javascript, PHP (Symfony), Python (Django), Atomic Design, RESTful API, version management, DDBB queries and design of schema (Propel ORM), error logging and monitoring (DataDog), SCRUM, XP, unit testing (phpUnit), functional testing (Cypress)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "eDreams ODIGEO",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/1f3a1b62-70e5-4cf1-9f66-172fe9ffff3e_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/1f3a1b62-70e5-4cf1-9f66-172fe9ffff3e_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Front-End Developer",
+            "startDate": "2016-07-01",
+            "finishDate": "2017-09-30",
+            "challenges": [
+              {
+                "description": "Summary: Java, Javascript, Backbone, Cucumber. Airlines e-Commerce.\n\n· Remote work full-time for main client “eDreams Odigeo” (b2c Online Travel agency) · Maintenance and development of the Front-end of a cross selling section of the website (improving sells in hotel + flight and hotel + car + flight packages) · A/B Tests development for trying new approaches for the website marketplaces in a fast iterative process · Work in both Web Desktop and Mobile versions of the website · Refactor of functional testing system based on Selenium and Cucumber, improving its efficiency and reducing random bugs that were blocking our automated QA processes.\n\n* Tech-stack: Javascript (Backbone), Java (Spring), RESTful API, Kanban, XP, unit testing (Mockito), functional testing/ automated QA (Selenium, Cucumber)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Brújula"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Developer, working for client Odigeo-eDreams",
+            "startDate": "2016-07-01",
+            "finishDate": "2017-09-30",
+            "challenges": [
+              {
+                "description": "Consultancy Company. With \"eDreams Odigeo\" as remote full-time client (please check that section for more information)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kamalyon",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/8b702873-8000-4e28-b70e-acbccd72b4f9_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/8b702873-8000-4e28-b70e-acbccd72b4f9_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Developer on Training",
+            "startDate": "2016-03-01",
+            "finishDate": "2016-05-31",
+            "challenges": [
+              {
+                "description": "Summary: PHP, Wordpress, Angular. End-of-studies training, \"Certificate of Higher Education (HNC) in Crossplatform Apps Development\".\n\n· Training as part of my studies curriculum · Development of the new website for a local museum · Development of my studios final project, a Hybrid App fron Android and IOs for managing domestic chores.\n\n* Tech-stack: Javascript (Angular 1, Ionic Framework), PHP (Wordpress templates, Google Maps plug-in, Twitter plug-in), Lumen API (Laravel), MySQL DDBB\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MADISA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/50f1914e-4c3c-4551-bd5e-54d8e1966e2f_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/50f1914e-4c3c-4551-bd5e-54d8e1966e2f_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Junior Developer",
+            "startDate": "2015-05-01",
+            "finishDate": "2015-09-30",
+            "challenges": [
+              {
+                "description": "Summary: ERP and Python.\n\n· First job while receiving formal programming education · Starting a web responsive app project for selling tickets with QR codes that were sent by email and data that came from a Web Service being developed in parallel in the company · Development of Python modules for “gsBase” ERP · Installment of gsBase on client site and formation of personnel to use it properly · Installment of PDAs and formation for a Hotel Company\n\n* Tech-stack: Javascript, Jquery, HTML, CSS, Python"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Self-Employed"
+        },
+        "roles": [
+          {
+            "name": "Self Taught Developer",
+            "startDate": "2014-01-01",
+            "finishDate": "2014-09-30",
+            "challenges": [
+              {
+                "description": "Learnt Python while working in England as a Nurse (with book “Learn Python 3 the Hard Way”)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NHS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/18c07480-b411-4e7f-92ee-a2f763bd5e74_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/18c07480-b411-4e7f-92ee-a2f763bd5e74_linkedin-photo-4534.linkedin-photo-4534"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ward Nurse",
+            "startDate": "2013-11-01",
+            "finishDate": "2014-09-30"
+          }
+        ]
       }
     ]
   },
