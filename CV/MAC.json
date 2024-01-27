@@ -542,6 +542,10 @@
           "type": "technology"
         },
         {
+          "name": "MaterialUI",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
