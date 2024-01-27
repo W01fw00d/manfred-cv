@@ -540,6 +540,10 @@
         {
           "name": "React",
           "type": "technology"
+        },
+        {
+          "name": "Storybook",
+          "type": "technology"
         }
       ]
     },
