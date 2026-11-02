@@ -539,10 +539,6 @@
         {
           "name": "Java",
           "type": "technology"
-        },
-        {
-          "name": "Kotlin",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
