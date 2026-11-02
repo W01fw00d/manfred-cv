@@ -477,6 +477,12 @@
       },
       {
         "skill": {
+          "name": "Good intercultural communication",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Team player",
           "type": "practice"
         }
