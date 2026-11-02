@@ -371,12 +371,6 @@
       },
       {
         "skill": {
-          "name": "Cypress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "GraphQL",
           "type": "technology"
         }
@@ -420,18 +414,6 @@
       {
         "skill": {
           "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Storybook",
           "type": "technology"
         }
       },
@@ -583,7 +565,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Cypress",
+        "name": "GraphQL",
         "type": "technology"
       },
       {
@@ -595,7 +577,7 @@
         "type": "technology"
       },
       {
-        "name": "Storybook",
+        "name": "REST",
         "type": "technology"
       },
       {
