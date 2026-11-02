@@ -488,6 +488,12 @@
       ],
       "contactMails": [
         "romay.gabriel@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "687698790",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
