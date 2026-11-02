@@ -523,6 +523,10 @@
           "type": "technology"
         },
         {
+          "name": "Playwright",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
