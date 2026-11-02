@@ -537,6 +537,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
           "name": "AngularJS",
           "type": "technology"
         }
