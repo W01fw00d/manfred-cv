@@ -57,18 +57,6 @@
       },
       {
         "organization": {
-          "name": "Spain"
-        },
-        "roles": [
-          {
-            "name": "Spain resident",
-            "startDate": "2021-12-01",
-            "finishDate": "2022-03-31"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Rakuten",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/30e8ca77-cdcc-49de-b2c1-85b6be9a2b95_linkedin-photo-4534.linkedin-photo-4534",
