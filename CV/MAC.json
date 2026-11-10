@@ -203,16 +203,43 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/464e4b28-ac5a-4f48-a4b7-2af3dc4ab704_linkedin-photo-4534.linkedin-photo-4534",
             "alt": "24/01/27/464e4b28-ac5a-4f48-a4b7-2af3dc4ab704_linkedin-photo-4534.linkedin-photo-4534"
-          }
+          },
+          "URL": "https://www.habitissimo.es/"
         },
         "roles": [
           {
             "name": "Full-Stack Developer",
-            "startDate": "2017-11-01",
-            "finishDate": "2019-01-31",
+            "startDate": "2017-12-01",
+            "finishDate": "2019-12-01",
             "challenges": [
               {
                 "description": "Summary: Symfony (PHP), JS, Django (Python), leadership role.\n\n· Maintenance and implementation of new features for a complex custom Back Office App (with CRM and CTI) that our Commercial, Customer Support, and Help Desk agents used for their daily work routines.\n\n· Maintenance of a Report App for Call Center records.\n\n· Maintenance and addition of new features in the main B2C Marketplace Web App (deployed in more than 8 countries in Europe and Latin America).\n\n· Generation of complex reports using mySQL queries on the main company DDBB.\n\n· Pair programming, sharing good practices (XP, Atomic Design, Scrum), code review.\n\n· Volunteer to rotate with other colleagues to manage all team's weekly releases in all countries, which meant having to detect and fix critical bugs on production, high functional and unit testing control, and making high business impact decisions. It’s a leadership role focused on ensuring code quality and company goals were being achieved while coordinating Systems and Development teams (Full Web Development Process Vision).\n\n* Tech-stack: Javascript, PHP (Symfony), Python (Django), Atomic Design, RESTful API, version management, DDBB queries and design of schema (Propel ORM), error logging and monitoring (DataDog), SCRUM, XP, unit testing (phpUnit), functional testing (Cypress)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
               }
             ]
           }
