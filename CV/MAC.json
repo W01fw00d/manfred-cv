@@ -297,23 +297,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Self-Employed"
-        },
-        "roles": [
-          {
-            "name": "Self Taught Developer",
-            "startDate": "2014-01-01",
-            "finishDate": "2014-09-30",
-            "challenges": [
-              {
-                "description": "Learnt Python while working in England as a Nurse (with book “Learn Python 3 the Hard Way”)."
-              }
-            ]
-          }
-        ]
       }
     ]
   },
