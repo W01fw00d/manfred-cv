@@ -220,23 +220,6 @@
       },
       {
         "organization": {
-          "name": "Brújula"
-        },
-        "roles": [
-          {
-            "name": "Full-Stack Developer, working for client Odigeo-eDreams",
-            "startDate": "2016-07-01",
-            "finishDate": "2017-09-30",
-            "challenges": [
-              {
-                "description": "Consultancy Company. With \"eDreams Odigeo\" as remote full-time client (please check that section for more information)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "eDreams ODIGEO",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/2b6bfaf7-7fd3-46b9-9628-da6e85544bce_linkedin-photo-4534.linkedin-photo-4534",
