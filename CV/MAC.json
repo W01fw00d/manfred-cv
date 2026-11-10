@@ -255,27 +255,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Kamalyon",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/2751b5db-5a22-486a-8781-50c4ca45ccc6_linkedin-photo-4534.linkedin-photo-4534",
-            "alt": "24/01/27/2751b5db-5a22-486a-8781-50c4ca45ccc6_linkedin-photo-4534.linkedin-photo-4534"
-          }
-        },
-        "roles": [
-          {
-            "name": "Web Developer on Training",
-            "startDate": "2016-03-01",
-            "finishDate": "2016-05-31",
-            "challenges": [
-              {
-                "description": "Summary: PHP, Wordpress, Angular. End-of-studies training, \"Certificate of Higher Education (HNC) in Crossplatform Apps Development\".\n\n· Training as part of my studies curriculum · Development of the new website for a local museum · Development of my studios final project, a Hybrid App fron Android and IOs for managing domestic chores.\n\n* Tech-stack: Javascript (Angular 1, Ionic Framework), PHP (Wordpress templates, Google Maps plug-in, Twitter plug-in), Lumen API (Laravel), MySQL DDBB\n"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
