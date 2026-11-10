@@ -314,22 +314,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "NHS",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/598227ff-34da-499b-ad3f-77b4b91d08be_linkedin-photo-4534.linkedin-photo-4534",
-            "alt": "24/01/27/598227ff-34da-499b-ad3f-77b4b91d08be_linkedin-photo-4534.linkedin-photo-4534"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ward Nurse",
-            "startDate": "2013-11-01",
-            "finishDate": "2014-09-30"
-          }
-        ]
       }
     ]
   },
