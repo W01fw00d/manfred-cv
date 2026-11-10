@@ -123,23 +123,6 @@
       },
       {
         "organization": {
-          "name": "Brújula, a CMC company"
-        },
-        "roles": [
-          {
-            "name": "Senior Frontend Developer, working for \"Meliá International\"",
-            "startDate": "2019-10-01",
-            "finishDate": "2020-05-31",
-            "challenges": [
-              {
-                "description": "Consultancy Company. With \"Meliá Hotels International\" as remote full-time client (please check that section for more information)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Habitissimo",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/464e4b28-ac5a-4f48-a4b7-2af3dc4ab704_linkedin-photo-4534.linkedin-photo-4534",
