@@ -276,27 +276,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "MADISA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/eb0f095e-6624-407f-b083-37c71e16efa2_linkedin-photo-4534.linkedin-photo-4534",
-            "alt": "24/01/27/eb0f095e-6624-407f-b083-37c71e16efa2_linkedin-photo-4534.linkedin-photo-4534"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full-Stack Junior Developer",
-            "startDate": "2015-05-01",
-            "finishDate": "2015-09-30",
-            "challenges": [
-              {
-                "description": "Summary: ERP and Python.\n\n· First job while receiving formal programming education · Starting a web responsive app project for selling tickets with QR codes that were sent by email and data that came from a Web Service being developed in parallel in the company · Development of Python modules for “gsBase” ERP · Installment of gsBase on client site and formation of personnel to use it properly · Installment of PDAs and formation for a Hotel Company\n\n* Tech-stack: Javascript, Jquery, HTML, CSS, Python"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
