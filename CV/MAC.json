@@ -90,39 +90,6 @@
       },
       {
         "organization": {
-          "name": "TEKsystems",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/1533e278-5a13-4534-8884-1cb80c5796ab_linkedin-photo-4534.linkedin-photo-4534",
-            "alt": "24/01/27/1533e278-5a13-4534-8884-1cb80c5796ab_linkedin-photo-4534.linkedin-photo-4534"
-          }
-        },
-        "roles": [
-          {
-            "name": "Web Application Engineer",
-            "startDate": "2020-05-01",
-            "finishDate": "2021-11-30",
-            "challenges": [
-              {
-                "description": "Working for main client Rakuten"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Japan"
-        },
-        "roles": [
-          {
-            "name": "Japan Resident",
-            "startDate": "2020-01-01",
-            "finishDate": "2021-11-30"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Habitissimo",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/464e4b28-ac5a-4f48-a4b7-2af3dc4ab704_linkedin-photo-4534.linkedin-photo-4534",
