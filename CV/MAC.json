@@ -123,27 +123,6 @@
       },
       {
         "organization": {
-          "name": "Meliá Hotels International",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/4a88512d-bf4e-4c2c-9af9-fc8c52f5f144_linkedin-photo-4534.linkedin-photo-4534",
-            "alt": "24/01/27/4a88512d-bf4e-4c2c-9af9-fc8c52f5f144_linkedin-photo-4534.linkedin-photo-4534"
-          }
-        },
-        "roles": [
-          {
-            "name": "Senior Frontend Developer",
-            "startDate": "2019-10-01",
-            "finishDate": "2020-05-31",
-            "challenges": [
-              {
-                "description": "Summary: React Custom Hooks, Material-UI, Storybook, leadership role.\n\n· Fast-paced project consisting of migrating Angular b2b apps to new React apps, in addition to adding new features and fixing bugs. These apps are for internal use of our client: they are used by different professionals and departments inside the company; and in addition to that, it’s used by more than 8.000 third-party agencies and directors from more than 350 hotels.\n\n· A custom library based on Material-UI designed to be shared between the different internal management apps (management of properties like hotels, leads, etc.) that our main client requires.\n\n· Senior Role in a group of all Junior colleagues. Creation of best solutions to most complex features and explaining them to the juniors, while assisting them in their tasks, pair programming with them and code reviewing, sharing good practices (XP, Atomic Design, Agile).\n\n* Tech-stack: React (TypeScript, React Hooks), SPA, RESTful API, Material-UI, Styled Components, Storybook, Atomic Design, Node.js."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Brújula, a CMC company"
         },
         "roles": [
@@ -154,23 +133,6 @@
             "challenges": [
               {
                 "description": "Consultancy Company. With \"Meliá Hotels International\" as remote full-time client (please check that section for more information)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Courses"
-        },
-        "roles": [
-          {
-            "name": "Continuous education",
-            "startDate": "2019-08-01",
-            "finishDate": "2019-09-30",
-            "challenges": [
-              {
-                "description": "Continuous formation and active job search.\n\n* Udemy course about Design Patterns in Java completed:\nCertificate: https://www.udemy.com/certificate/UC-OI97TI06/\nExercices: https://github.com/W01fw00d/design_patterns_java\n\n* Platzi course about React.js:\nCertificate: In my profile\nExercices: https://github.com/W01fw00d/platzi-badges\n\nPersonal projects in Github to experiment with state-of-the-art web technologies (Django, React)."
               }
             ]
           }
