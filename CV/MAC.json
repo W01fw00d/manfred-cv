@@ -178,27 +178,6 @@
       },
       {
         "organization": {
-          "name": "Ávoris - B The Travel Brand",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/1587ab1a-408a-4d25-a5e6-657d1106d426_linkedin-photo-4534.linkedin-photo-4534",
-            "alt": "24/01/27/1587ab1a-408a-4d25-a5e6-657d1106d426_linkedin-photo-4534.linkedin-photo-4534"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full Stack Developer",
-            "startDate": "2019-02-01",
-            "finishDate": "2019-07-31",
-            "challenges": [
-              {
-                "description": "(https://www.avoristravel.uk/about)\n\nSummary: Angular, Java, Microservices. Airlines e-Commerce.\n\n· External payment platforms integration with our international flights selling b2c website (https://www.bthetravelbrand.com/).\n\n· Development of a back office b2b app that was used by our agents to manage payments, in the more than 650 company flights agencies.\n\n*Tech-stack: Angular.js (Javascript, TypeScript), Atomic Design, SPA, Java ( ES6, Spring ), Server Side Rendering, RESTful API, microservices architecture, continuous integration (the team was managing their releases autonomously), version management, database design, unit testing (Mockito)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Habitissimo",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/464e4b28-ac5a-4f48-a4b7-2af3dc4ab704_linkedin-photo-4534.linkedin-photo-4534",
