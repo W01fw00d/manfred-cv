@@ -220,27 +220,6 @@
       },
       {
         "organization": {
-          "name": "eDreams ODIGEO",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/2b6bfaf7-7fd3-46b9-9628-da6e85544bce_linkedin-photo-4534.linkedin-photo-4534",
-            "alt": "24/01/27/2b6bfaf7-7fd3-46b9-9628-da6e85544bce_linkedin-photo-4534.linkedin-photo-4534"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full-Stack Front-End Developer",
-            "startDate": "2016-07-01",
-            "finishDate": "2017-09-30",
-            "challenges": [
-              {
-                "description": "Summary: Java, Javascript, Backbone, Cucumber. Airlines e-Commerce.\n\n· Remote work full-time for main client “eDreams Odigeo” (b2c Online Travel agency) · Maintenance and development of the Front-end of a cross selling section of the website (improving sells in hotel + flight and hotel + car + flight packages) · A/B Tests development for trying new approaches for the website marketplaces in a fast iterative process · Work in both Web Desktop and Mobile versions of the website · Refactor of functional testing system based on Selenium and Cucumber, improving its efficiency and reducing random bugs that were blocking our automated QA processes.\n\n* Tech-stack: Javascript (Backbone), Java (Spring), RESTful API, Kanban, XP, unit testing (Mockito), functional testing/ automated QA (Selenium, Cucumber)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Brújula"
         },
         "roles": [
@@ -251,6 +230,42 @@
             "challenges": [
               {
                 "description": "Consultancy Company. With \"eDreams Odigeo\" as remote full-time client (please check that section for more information)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "eDreams ODIGEO",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/2b6bfaf7-7fd3-46b9-9628-da6e85544bce_linkedin-photo-4534.linkedin-photo-4534",
+            "alt": "24/01/27/2b6bfaf7-7fd3-46b9-9628-da6e85544bce_linkedin-photo-4534.linkedin-photo-4534"
+          },
+          "URL": "https://www.edreamsodigeo.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Developer",
+            "startDate": "2016-03-01",
+            "finishDate": "2017-11-01",
+            "challenges": [
+              {
+                "description": "Summary: Java, Javascript, Backbone, Cucumber. Airlines e-Commerce.\n\n· Remote work full-time for main client “eDreams Odigeo” (b2c Online Travel agency) · Maintenance and development of the Front-end of a cross selling section of the website (improving sells in hotel + flight and hotel + car + flight packages) · A/B Tests development for trying new approaches for the website marketplaces in a fast iterative process · Work in both Web Desktop and Mobile versions of the website · Refactor of functional testing system based on Selenium and Cucumber, improving its efficiency and reducing random bugs that were blocking our automated QA processes.\n\n* Tech-stack: Javascript (Backbone), Java (Spring), RESTful API, Kanban, XP, unit testing (Mockito), functional testing/ automated QA (Selenium, Cucumber)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
               }
             ]
           }
