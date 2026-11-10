@@ -61,16 +61,39 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/30e8ca77-cdcc-49de-b2c1-85b6be9a2b95_linkedin-photo-4534.linkedin-photo-4534",
             "alt": "24/01/27/30e8ca77-cdcc-49de-b2c1-85b6be9a2b95_linkedin-photo-4534.linkedin-photo-4534"
-          }
+          },
+          "URL": "https://www.rakuten.co.jp/?lang=en"
         },
         "roles": [
           {
-            "name": "Web Applications Engineer",
-            "startDate": "2020-05-01",
-            "finishDate": "2021-11-30",
+            "name": "Senior Full-Stack Engineer",
+            "startDate": "2020-01-01",
+            "finishDate": "2022-02-01",
             "challenges": [
               {
                 "description": "Summary: React + Kotlin SSR Web App, Senior Full-Stack Autonomous Developer.\n\n· I worked on an already started project for managing chatbots in the company mobile app while I was waiting for my own project to be assigned to me. It was a React Web App that was calling an internal API.\n\n· I worked on a complex project from the starting design phase, through the production release, and to the later maintenance and continuous improvement phase. I created an API and an SSR Web App to manage commercial campaigns from different old databases and a new database that I designed and managed. I was in charge of designing new solutions for product specifications before and after release, fixing bugs, improving the app performance, and fixing security issues (avoiding JS and HTML injection for example). In some cases, I designed the UI too according to product specifications; although, I usually worked closely with my UX colleagues from other teams. As it was a new project, I was able to choose the better-suited tech for our necessities and use the last available versions. I was responsible for documenting all the information about this project (design decisions, implementation details…) and passing it down to the next maintainers.\n\n· As an expert in React Frontend Development, I was in charge of doing Code Review for other teams and projects, offering mentoring about best practices. Lots of teams only had Junior Frontend Developers, so I had a lot of opportunities to share knowledge with them.\n\n\n* Tech-stack: React (TypeScript, React Hooks), SSR, Ant Design Framework, Kotlin (in the Backend), Spring, MySQL, error logging and monitoring (DataDog)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
