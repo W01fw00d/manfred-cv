@@ -330,20 +330,6 @@
           "name": "Borja Moll High School Institute"
         },
         "finishDate": "2016-01-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Nursing degree, Nursing",
-        "startDate": "2009-01-01",
-        "institution": {
-          "name": "Universitat de les Illes Balears",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/b151d02a-6cf2-4f8d-9df0-f867746fcbf2_linkedin-photo-4534.linkedin-photo-4534",
-            "alt": "24/01/27/b151d02a-6cf2-4f8d-9df0-f867746fcbf2_linkedin-photo-4534.linkedin-photo-4534"
-          }
-        },
-        "finishDate": "2013-01-01"
       }
     ],
     "softSkills": [
